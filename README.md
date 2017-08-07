@@ -1,2 +1,2 @@
 # photos
-pics so i don't forget
+photos of this summer and the future
