@@ -1,6 +1,6 @@
 
 body {
-  background-color: #ffb3b3;
+  background-color: #d1e0e0;
 }
 
 p {
@@ -16,14 +16,28 @@ p {
   width: auto;
   height: auto;
   display: block;
-  margin-top: 150px;
-  margin-bottom: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   margin-left: auto;
   margin-right: auto;
+  position:static;
 }
 
 
 .container img {
   width: 50%;
   height: 50%;
+}
+
+.pagenumber a {
+  color: #75a3a3;
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  position:static;
+  font-family: "Arial", sans-serif;
+  font-size: 2em;
+  font-weight: bold;
 }
