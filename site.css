@@ -3,13 +3,14 @@ body {
   background-color: #d1e0e0;
 }
 
-p {
-  margin-left: -15px;
-  margin-top: -70px;
+.title a {
+  margin-left: 0px;
+  margin-top: 0px;
   color: #75a3a3;
   font-family: "Arial", sans-serif;
-  font-size: 7.5em;
+  font-size: 7em;
   font-weight: bold;
+  text-decoration: none;
 }
 
 .container * {
@@ -40,4 +41,5 @@ p {
   font-family: "Arial", sans-serif;
   font-size: 2em;
   font-weight: bold;
+  text-decoration: none;
 }
