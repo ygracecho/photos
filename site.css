@@ -10,12 +10,53 @@ a {
 }
 
 img {
-  width: 50%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 10px;
+    max-width: 100%;
+    max-height: 100%;
 }
+
+.imagecolumn{
+  margin: auto;
+  width: 80%;
+  padding: 10px;
+}
+
+
+.p1{
+  display: flex;
+}
+.p2{
+  display: flex;
+}
+.p3{
+  display: flex;
+}
+.p4{
+  display: flex;
+}
+.p5{
+  display: flex;
+}
+.p6{
+  display: flex;
+}
+.p7{
+  display: flex;
+}
+.p8{
+  display: flex;
+}
+.p9{
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 5px;
+}
+
+
+
+
 
 .title {
   font-family: "VT323";
